@@ -1,0 +1,35 @@
+{
+	"WindowTitle": "Project particles",
+	"WindowSizeX": 800,
+  	"WindowSizeY": 800,
+	"FullScreen": true,
+	"Debug": true,
+
+	"Gamemod"  : "paint",
+
+	"OnClick": false,
+	"SpawnRate": 10,
+
+	"InitNumParticles":0,
+	"NumMaxParticles" : 150000,
+
+	"LiveSpanActivator": false,
+	"LiveSpan":  120,
+
+	"RandomSpawn": false,
+	"RandomRotation": true,
+	"RandomColor": true,
+	"RandomOpacity": true,
+	"RandomScale": true,
+
+	"Gravity":  false,
+	"Bounce":true,
+	"RightClickBlower":true,
+
+	"OpacityManagementMode":0,
+	
+
+	"ParticleImage": "assets/particle.png",
+	"TorchImage": "assets/torch.png",
+	"CrayonImage":"assets/crayon.png"
+}
